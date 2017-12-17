@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/USBKEY/!svn/ver/2/trunk/FPKEY_1.0/FPKEY_1.0_CR/cos
+END
+hal_flash_data.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/USBKEY/!svn/ver/2/trunk/FPKEY_1.0/FPKEY_1.0_CR/cos/hal_flash_data.h
+END
+hal_flash_interface.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/USBKEY/!svn/ver/2/trunk/FPKEY_1.0/FPKEY_1.0_CR/cos/hal_flash_interface.c
+END
+cos.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/USBKEY/!svn/ver/2/trunk/FPKEY_1.0/FPKEY_1.0_CR/cos/cos.c
+END
+hal_flash_interface.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/USBKEY/!svn/ver/2/trunk/FPKEY_1.0/FPKEY_1.0_CR/cos/hal_flash_interface.h
+END
+hal_alg.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/USBKEY/!svn/ver/2/trunk/FPKEY_1.0/FPKEY_1.0_CR/cos/hal_alg.c
+END
+cos.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/USBKEY/!svn/ver/2/trunk/FPKEY_1.0/FPKEY_1.0_CR/cos/cos.h
+END
+hal_alg.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/USBKEY/!svn/ver/2/trunk/FPKEY_1.0/FPKEY_1.0_CR/cos/hal_alg.h
+END

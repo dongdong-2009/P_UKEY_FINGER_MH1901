@@ -1,0 +1,6 @@
+---- APP_CMD_KeyInit Matches (2 in 1 files) ----
+App_cmd.c (e:\支付通\##ukey_finger_mh1901\ga_key_finger_mh1901\application\user):unsigned short APP_CMD_KeyInit(void)
+App_cmd.c (e:\支付通\##ukey_finger_mh1901\ga_key_finger_mh1901\application\user):	{0x9010,APP_CMD_KeyInit},
+---- APP_CMD_KeyInit Search Errors Encountered (1) ----
+The following 1 files could not be processed:
+E:\支付通\##UKEY_FINGER_MH1901\GA_KEY_FINGER_MH1901\MDK_Prj\SE-PU\Obj\UKEY_FINGER_MH1901.build_log.htm : File could not be opened.
